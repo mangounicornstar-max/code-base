@@ -1,4 +1,4 @@
-Goals:
+## 1. Goals:
 
 The script...:
 Finds a part named VisiblePart
